@@ -1,0 +1,14 @@
+{
+  "name": "rob",
+  "author": "SidKwok",
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "delay": "^2.0.0",
+    "fs-extra": "^5.0.0",
+    "moment": "^2.22.0",
+    "puppeteer": "^1.2.0"
+  }
+}
